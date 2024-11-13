@@ -1,0 +1,5 @@
+Sia il Dataset preprocessato che il modello finale sono disponibili sull'HUB di Huggingface ai seguenti link:
+
+DATASET : https://huggingface.co/datasets/AterMors/wikiart_recaption
+
+MODELLO : https://huggingface.co/AterMors/Swin2-GTP2_art-caption
